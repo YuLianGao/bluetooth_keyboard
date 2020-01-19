@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blutooth</string>
+    <string name="send">Send</string>
+    <string name="connect">Connect</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="title_paired_devices">Title paired devices</string>
+    <string name="title_other_devices">Other Devices.</string>
+    <string name="button_scan">Scan</string>
+    <string name="bt_not_enabled_leaving">Bluetooth not enabled leaving</string>
+    <string name="not_connected">Not connected</string>
+    <string name="none_paired">none paired</string>
+    <string name="scanning">Scanning</string>
+    <string name="select_device">Select Device</string>
+    <string name="none_found">Not found</string>
+</resources>
